@@ -5,8 +5,8 @@ However, events of interest from a chemical-biological point of view, the transi
 ![](figure.png)
 
 ### Exercise 1
-> Learn how to implement a numerical integrator to solve a stochastic differential equation
-> Learn how to implement a neural network to approximate the Boltzmann distribution of one-dimensional systems.
+- Learn how to implement a numerical integrator to solve a stochastic differential equation
+- Learn how to implement a neural network to approximate the Boltzmann distribution of one-dimensional systems.
 
 ### Exercise 2
 > Learn how to implement ISOKANN, an iterative algorithm based on neural networks, to identify the membership functions of one-dimensional systems.
